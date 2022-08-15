@@ -1,0 +1,24 @@
+.container{
+    /* display: flex;
+    justify-content: space-between; */
+
+    text-align: center;
+    position: relative;
+    visibility: inline-block;
+    /* margin: auto; */
+
+    /* margin-top: -10px; */
+}
+
+/*.nav{
+    border-radius: 20px; 
+    /* background-color: aliceblue; 
+    margin-left: 200px;
+    margin-right: -200px;
+    margin-top: -70px;
+    /* margin-bottom: -70px; 
+}*/
+/* .btn{
+    border-radius: 2px;
+    margin: 2px;
+} */
